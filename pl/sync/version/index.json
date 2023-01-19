@@ -1,84 +1,80 @@
 {
   "latest": "0.7.1 Beta",
   "latest_development": "0.7.1 Beta",
+  "latest-spigot": "0.7.1 Beta",
+  "latest_development-spigot": "0.7.1 Beta",
   "versions": [
     {
       "version": "0.7.1 Beta",
       "release": true,
-      "release-date": "01/19/2023",
+      "release-date": "Aug 5, 2022",
       "download": "0.7.1"
     },
     {
       "version": "0.7.0 Beta",
       "release": false,
-      "release-date": "01/19/2023",
+      "release-date": "Aug 4, 2022",
       "download": "0.7.0"
     },
     {
       "version": "0.6.9 Beta",
       "release": false,
-      "release-date": "01/19/2023",
+      "release-date": "Aug 4, 2022",
       "download": "0.6.9"
     },
     {
       "version": "0.6.8 Beta",
       "release": false,
-      "release-date": "01/19/2023",
+      "release-date": "Aug 4, 2022",
       "download": "0.6.8"
     },
     {
       "version": "0.6.7 Beta",
       "release": false,
-      "release-date": "01/19/2023",
+      "release-date": "Aug 2, 2022",
       "download": "0.6.7"
     },
     {
       "version": "0.6.6 Beta",
       "release": false,
-      "release-date": "01/19/2023",
+      "release-date": "Aug 1, 2022",
       "download": "0.6.6"
     },
     {
       "version": "0.6.5 Beta",
       "release": true,
-      "release-date": "01/19/2023",
+      "release-date": "Aug 1, 2022",
       "download": "0.6.5"
     },
     {
       "version": "0.6.4 Beta",
       "release": false,
-      "release-date": "01/19/2023",
+      "release-date": "Aug 1, 2022",
       "download": "0.6.4"
     },
     {
       "version": "0.6.3 Beta",
       "release": false,
-      "release-date": "01/19/2023",
+      "release-date": "Aug 1, 2022",
       "download": "0.6.3"
     },
     {
       "version": "0.6.2 Beta",
       "release": true,
-      "release-date": "01/19/2023",
+      "release-date": "Jul 31, 2022",
       "download": "0.6.2"
     },
     {
       "version": "0.6.1 Beta",
       "release": true,
-      "release-date": "01/19/2023",
+      "release-date": "Jul 30, 2022",
       "download": "0.6.1"
     },
     {
       "version": "0.6 Beta",
       "release": true,
-      "release-date": "01/19/2023",
+      "release-date": "Jul 30, 2022",
       "download": "0.6.0"
-    },
-    {
-      "version": "0.5 Beta",
-      "release": false,
-      "release-date": "01/19/2023",
-      "download": "0.5.0"
     }
   ]
 }

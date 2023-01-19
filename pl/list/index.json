@@ -1,10 +1,12 @@
 [
   {
     "name": "Sync",
-    "api": "sync"
+    "api": "sync",
+    "platform": ["spigot"]
   },
   {
     "name": "DirectBans",
-    "api": "directbans"
+    "api": "directbans",
+    "platform": ["bungee", "spigot", "web"]
   }
 ]
