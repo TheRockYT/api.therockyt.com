@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Sync",
+    "api": "sync"
+  },
+  {
+    "name": "DirectBans",
+    "api": "directbans"
+  }
+]
