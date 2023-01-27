@@ -8,5 +8,10 @@
     "name": "DirectBans",
     "api": "directbans",
     "platform": ["bungee", "spigot", "web"]
+  },
+  {
+    "name": "FSpawn",
+    "api": "fspawm",
+    "platform": ["spigot"]
   }
 ]
