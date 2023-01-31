@@ -5,6 +5,20 @@
   "latest_development-spigot": "0.7.1 Beta",
   "versions": [
     {
+      "version": "0.8.1 Beta",
+      "release": true,
+      "release-date": "Jan 31, 2023",
+      "download": "Sync-v0.8.1",
+      "platform": ["spigot"]
+    },
+    {
+      "version": "0.8.0 Beta",
+      "release": true,
+      "release-date": "Jan 31, 2023",
+      "download": "Sync-v0.8.0",
+      "platform": ["spigot"]
+    },
+    {
       "version": "0.7.1 Beta",
       "release": true,
       "release-date": "Aug 5, 2022",
