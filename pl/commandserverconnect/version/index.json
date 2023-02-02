@@ -1,0 +1,29 @@
+{
+  "latest": "1.2",
+  "latest_development": "1.2",
+  "latest-bungee": "1.2",
+  "latest_development-bungee": "1.2",
+  "versions": [
+    {
+      "version": "1.2",
+      "release": true,
+      "release-date": "May 19, 2022",
+      "download": "CommandServerConnect-v1.2",
+      "platform": ["bungee"]
+    },
+    {
+      "version": "1.1",
+      "release": true,
+      "release-date": "May 19, 2022",
+      "download": "CommandServerConnect-v1.1",
+      "platform": ["bungee"]
+    },
+    {
+      "version": "1.0",
+      "release": true,
+      "release-date": "May 19, 2022",
+      "download": "CommandServerConnect-v1.0",
+      "platform": ["bungee"]
+    }
+  ]
+}

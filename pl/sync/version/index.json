@@ -1,26 +1,26 @@
 {
-  "latest": "0.8.1 Beta",
-  "latest_development": "0.8.1 Beta",
+  "latest": "-",
+  "latest_development": "-",
   "latest-spigot": "0.8.1 Beta",
   "latest_development-spigot": "0.8.1 Beta",
   "versions": [
     {
       "version": "0.8.1 Beta",
-      "release": true,
+      "release": false,
       "release-date": "Jan 31, 2023",
       "download": "Sync-v0.8.1",
       "platform": ["spigot"]
     },
     {
       "version": "0.8.0 Beta",
-      "release": true,
+      "release": false,
       "release-date": "Jan 31, 2023",
       "download": "Sync-v0.8.0",
       "platform": ["spigot"]
     },
     {
       "version": "0.7.1 Beta",
-      "release": true,
+      "release": false,
       "release-date": "Aug 5, 2022",
       "download": "Sync-v0.7.1",
       "platform": ["spigot"]
@@ -62,7 +62,7 @@
     },
     {
       "version": "0.6.5 Beta",
-      "release": true,
+      "release": false,
       "release-date": "Aug 1, 2022",
       "download": "Sync-v0.6.5",
       "platform": ["spigot"]
@@ -83,21 +83,21 @@
     },
     {
       "version": "0.6.2 Beta",
-      "release": true,
+      "release": false,
       "release-date": "Jul 31, 2022",
       "download": "Sync-v0.6.2",
       "platform": ["spigot"]
     },
     {
       "version": "0.6.1 Beta",
-      "release": true,
+      "release": false,
       "release-date": "Jul 30, 2022",
       "download": "Sync-v0.6.1",
       "platform": ["spigot"]
     },
     {
       "version": "0.6 Beta",
-      "release": true,
+      "release": false,
       "release-date": "Jul 30, 2022",
       "download": "Sync-v0.6.0",
       "platform": ["spigot"]
