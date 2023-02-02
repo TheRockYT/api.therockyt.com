@@ -13,5 +13,25 @@
     "name": "FSpawn",
     "api": "fspawm",
     "platform": ["spigot"]
+  },
+  {
+    "name": "AdvancedCloud",
+    "api": "advancedcloud",
+    "platform": ["spigot", "bungee", "master", "agent"]
+  },
+  {
+    "name": "AdvancedFind",
+    "api": "advancedfind",
+    "platform": ["bungee"]
+  },
+  {
+    "name": "CMOTD",
+    "api": "cmotd",
+    "platform": ["bungee"]
+  },
+  {
+    "name": "CommandServerConnect",
+    "api": "commandserverconnect",
+    "platform": ["bungee"]
   }
 ]
