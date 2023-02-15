@@ -11,7 +11,7 @@
   },
   {
     "name": "FSpawn",
-    "api": "fspawm",
+    "api": "fspawn",
     "platform": ["spigot"]
   },
   {
