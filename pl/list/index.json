@@ -1,5 +1,10 @@
 [
   {
+    "name": "BetterTags",
+    "api": "bettertags",
+    "platform": ["spigot"]
+  },
+  {
     "name": "Sync",
     "api": "sync",
     "platform": ["spigot"]

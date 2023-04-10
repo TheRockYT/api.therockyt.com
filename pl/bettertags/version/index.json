@@ -1,0 +1,15 @@
+{
+  "latest": "-",
+  "latest_development": "0.1",
+  "latest-spigot": "-",
+  "latest_development-spigot": "0.1",
+  "versions": [
+    {
+      "version": "0.1",
+      "release": false,
+      "release-date": "Apr 10, 2023",
+      "download": "BetterTags-v0.1",
+      "platform": ["spigot"]
+    }
+  ]
+}
