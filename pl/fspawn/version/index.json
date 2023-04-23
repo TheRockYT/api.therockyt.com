@@ -1,9 +1,16 @@
 {
-  "latest": "2.0",
-  "latest_development": "2.1",
-  "latest-spigot": "2.0",
-  "latest_development-spigot": "2.1",
+  "latest": "2.2",
+  "latest_development": "2.2",
+  "latest-spigot": "2.2",
+  "latest_development-spigot": "2.2",
   "versions": [
+    {
+      "version": "2.2",
+      "release": false,
+      "release-date": "Apr 24, 2023",
+      "download": "FSpawn-v2.2",
+      "platform": ["spigot"]
+    },
     {
       "version": "2.1",
       "release": false,
