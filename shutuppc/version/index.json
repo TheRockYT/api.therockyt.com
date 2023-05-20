@@ -15,6 +15,11 @@
     "1.0.2": {
       "development": false,
       "release-date": "10/12/2022",
+      "update": true
+    },
+    "1.0.3": {
+      "development": false,
+      "release-date": "5/20/2023",
       "update": false
     }
   }
